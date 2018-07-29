@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:4C976D40
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\stdio.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr2\inc\delay.h"
+NODE:M LEVEL:0 LINE:27 "servo1"
+NODE:V LEVEL:0 LINE:28 "serpo1 -> R4,R5"
+NODE:V LEVEL:0 LINE:28 "a -> R6,R7"
+NODE:F LEVEL:0 LINE:32 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:47 "main(void)"

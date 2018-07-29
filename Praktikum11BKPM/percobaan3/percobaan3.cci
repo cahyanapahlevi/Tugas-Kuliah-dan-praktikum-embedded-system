@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:4C977B71
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega16.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr2\inc\delay.h"
+NODE:I LEVEL:0 LINE:27 "C:\cvavr2\inc\stdio.h"
+NODE:V LEVEL:0 LINE:28 "lcd -> RAM:????"
+NODE:V LEVEL:0 LINE:29 "data -> R5"
+NODE:V LEVEL:0 LINE:29 "pwm -> R4"
+NODE:V LEVEL:0 LINE:29 "a -> R7"
+NODE:I LEVEL:0 LINE:32 "C:\cvavr2\inc\alcd.h"
+NODE:F LEVEL:0 LINE:35 "timer0_ovf_isr(void)"
+NODE:M LEVEL:0 LINE:44 "ADC_VREF_TYPE"
+NODE:F LEVEL:0 LINE:47 "read_adc(unsigned char adc_input)"
+NODE:F LEVEL:0 LINE:62 "main(void)"

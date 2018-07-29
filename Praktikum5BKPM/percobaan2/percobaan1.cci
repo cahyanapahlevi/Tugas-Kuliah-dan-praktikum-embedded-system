@@ -1,0 +1,9 @@
+VERSION:3 SOURCE_TIMESTAMP:4C8B508D
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\stdio.h"
+NODE:V LEVEL:0 LINE:27 "data -> R4,R5"
+NODE:V LEVEL:0 LINE:27 "nilai -> R6,R7"
+NODE:V LEVEL:0 LINE:28 "lcd -> RAM:????"
+NODE:I LEVEL:0 LINE:31 "C:\cvavr2\inc\alcd.h"
+NODE:F LEVEL:0 LINE:34 "timer1_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:45 "main(void)"

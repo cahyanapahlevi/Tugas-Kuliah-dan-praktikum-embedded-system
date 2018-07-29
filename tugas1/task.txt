@@ -1,0 +1,41 @@
+ PORTA = 0b110;  // abang
+      delay_ms (2000);
+      
+      PORTB = 0b011;    // ijo
+      delay_ms (1000);  
+         
+       PORTC = 0b110;       //abang
+      delay_ms (3000);
+                    
+      // kondisi kedua
+      PORTA = 0b101;   //      kuning
+      delay_ms (100);
+      
+      PORTB = 0b101;      //  kuning
+      delay_ms (100);  
+         
+       PORTC = 0b110;       //   abang
+      delay_ms (1000);
+      
+      //kondisi ketiga
+       PORTA = 0b011;  // ijo 
+      delay_ms (1000);
+      
+      PORTB = 0b110;       // abang
+      delay_ms (1000);  
+         
+       PORTC = 0b101;      // kuning
+      delay_ms (100);
+      
+      
+      
+      
+      // kondisi keempat
+      PORTA = 0b101;  // kuning 
+      delay_ms (100);
+      
+      PORTB = 0b101;       // kuning
+      delay_ms (100);  
+         
+       PORTC = 0b011;      // ijo
+      delay_ms (800);

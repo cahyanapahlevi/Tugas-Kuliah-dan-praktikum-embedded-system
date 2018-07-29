@@ -1,0 +1,13 @@
+VERSION:3 SOURCE_TIMESTAMP:4C975462
+NODE:I LEVEL:0 LINE:24 "C:\cvavr2\inc\mega16.h"
+NODE:I LEVEL:0 LINE:25 "C:\cvavr2\inc\delay.h"
+NODE:I LEVEL:0 LINE:26 "C:\cvavr2\inc\stdlib.h"
+NODE:I LEVEL:0 LINE:29 "C:\cvavr2\inc\alcd.h"
+NODE:V LEVEL:0 LINE:31 "*data -> R4,R5"
+NODE:V LEVEL:0 LINE:32 "jumlah -> R6,R7"
+NODE:V LEVEL:0 LINE:33 "lcd -> RAM:????"
+NODE:F LEVEL:0 LINE:36 "timer0_ovf_isr(void)"
+NODE:F LEVEL:0 LINE:45 "tulis_data_ke_eeprom(void)"
+NODE:F LEVEL:0 LINE:48 "baca_data_ke_eeprom(void)"
+NODE:F LEVEL:0 LINE:51 "tampil_lcd(void)"
+NODE:F LEVEL:0 LINE:59 "main(void)"

@@ -1,0 +1,7 @@
+C:\Users\Cahyana\Documents\SharpDevelop Projects\latihan1\latihan1\bin\Debug\latihan1.exe
+C:\Users\Cahyana\Documents\SharpDevelop Projects\latihan1\latihan1\bin\Debug\latihan1.pdb
+C:\Users\Cahyana\Documents\SharpDevelop Projects\latihan1\latihan1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cahyana\Documents\SharpDevelop Projects\latihan1\latihan1\obj\x86\Debug\latihan1.exe
+C:\Users\Cahyana\Documents\SharpDevelop Projects\latihan1\latihan1\obj\x86\Debug\latihan1.pdb
+C:\Users\Cahyana\Documents\SharpDevelop Projects\latihan1\latihan1\obj\x86\Debug\latihan1.MainForm.resources
+C:\Users\Cahyana\Documents\SharpDevelop Projects\latihan1\latihan1\obj\x86\Debug\latihan1.csproj.GenerateResource.Cache

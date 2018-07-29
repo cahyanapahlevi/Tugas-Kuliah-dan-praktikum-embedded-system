@@ -1,0 +1,14 @@
+C:\Users\Cahyana\Documents\SharpDevelop Projects\tugas1\tugas1\bin\Debug\tugas1.exe
+C:\Users\Cahyana\Documents\SharpDevelop Projects\tugas1\tugas1\bin\Debug\tugas1.pdb
+C:\Users\Cahyana\Documents\SharpDevelop Projects\tugas1\tugas1\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Cahyana\Documents\SharpDevelop Projects\tugas1\tugas1\obj\x86\Debug\tugas1.exe
+C:\Users\Cahyana\Documents\SharpDevelop Projects\tugas1\tugas1\obj\x86\Debug\tugas1.pdb
+C:\Users\Cahyana\Documents\SharpDevelop Projects\tugas1\tugas1\obj\x86\Debug\tugas1.MainForm.resources
+C:\Users\Cahyana\Documents\SharpDevelop Projects\tugas1\tugas1\obj\x86\Debug\tugas1.csproj.GenerateResource.Cache
+D:\1\SharpDevelop Projects\tugas1\tugas1\bin\Debug\tugas1.exe
+D:\1\SharpDevelop Projects\tugas1\tugas1\bin\Debug\tugas1.pdb
+D:\1\SharpDevelop Projects\tugas1\tugas1\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\1\SharpDevelop Projects\tugas1\tugas1\obj\x86\Debug\tugas1.MainForm.resources
+D:\1\SharpDevelop Projects\tugas1\tugas1\obj\x86\Debug\tugas1.csproj.GenerateResource.Cache
+D:\1\SharpDevelop Projects\tugas1\tugas1\obj\x86\Debug\tugas1.exe
+D:\1\SharpDevelop Projects\tugas1\tugas1\obj\x86\Debug\tugas1.pdb
